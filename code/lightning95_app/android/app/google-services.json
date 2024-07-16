@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "164528425660",
+    "firebase_url": "https://lightning95-selfparking-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lightning95-selfparking",
+    "storage_bucket": "lightning95-selfparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164528425660:android:17d76b334803673cfa9eb9",
+        "android_client_info": {
+          "package_name": "com.lightning95.lightning95_mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSKFty-6gp2KvI8TF_DQs6oDRnRhTJIgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
