@@ -1,41 +1,39 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5mCoF9-h)
-# TOBB ETÜ ELE495 - Capstone Project
+
+# TOBB ETÜ ELE 495 - Lightning95
+
+![Lightning95](https://i.hizliresim.com/6kme4l0.png)
 
 # Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Requirements](#requirements)
+- [Images](#images)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
-Provide a brief overview of the project, its purpose, and what problem it aims to solve.
+This project involves developing a JetBot, powered by the Jetson Nano, to recognize numbers using the SSD MobileNet V2 neural network. The JetBot is designed to identify license plate numbers and match them with information provided by users through a mobile application interface.
 
 ## Features
-List the key features and functionalities of the project.
-- Hardware: The hardware components used (should be listed with links)
-- Operating System and packages
-- Applications 
-- Services 
 
-## Installation
-Describe the steps required to install and set up the project. Include any prerequisites, dependencies, and commands needed to get the project running.
+-   **Jetson Nano Platform:** Utilizes the computational power of the Jetson Nano for real-time processing and number recognition.
+-   **SSD MobileNet V2:** Implements the SSD MobileNet V2 model for efficient and accurate number detection.
+-   **Mobile Application Interface:** Allows users to input license plate information through a user-friendly mobile application.
+-   **Integration with JetBot:** Ensures seamless communication between the mobile application and the JetBot, enabling real-time updates and interactions.
 
-```bash
-# Example commands
-git clone https://github.com/username/project-name.git
-cd project-name
-```
+## Requirements
+This project needs the following python libraries:
 
-## Usage
-Provide instructions and examples on how to use the project. Include code snippets or screenshots where applicable.
+ - firebase-admin
+ - jetbot
+ - jetson-inference
+ - jetson-utils
 
-## Screenshots
-Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
+## Images
+<p align = 'center'><img src='https://i.hizliresim.com/e0wd4k9.jpg' /></p>
+
+<p align = 'center'><img src='https://i.hizliresim.com/f4lx1ta.png' /></p>
 
 ## Acknowledgements
-Give credit to those who have contributed to the project or provided inspiration. Include links to any resources or tools used in the project.
 
-[Contributor 1](https://github.com/user1)
-[Resource or Tool](https://www.nvidia.com)
+[JetBot](https://jetbot.org/master/)
+[Jetson Inference by dusty-nv](https://github.com/dusty-nv/jetson-inference)
