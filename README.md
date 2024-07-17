@@ -7,7 +7,9 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
+- [Block Diagram](#block-diagram)
 - [Images](#images)
+- [Video](#video)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -28,10 +30,16 @@ This project needs the following python libraries:
  - jetson-inference
  - jetson-utils
 
+## Block Diagram
+<p align = 'center'><img src='https://i.hizliresim.com/f4lx1ta.png' /></p>
+
 ## Images
 <p align = 'center'><img src='https://i.hizliresim.com/e0wd4k9.jpg' /></p>
 
-<p align = 'center'><img src='https://i.hizliresim.com/f4lx1ta.png' /></p>
+## Video
+[![Video](https://resmim.net/cdn/2024/07/17/WHtK7R.jpg)](https://youtu.be/mZFRf9zGdFs)
+
+
 
 ## Acknowledgements
 
