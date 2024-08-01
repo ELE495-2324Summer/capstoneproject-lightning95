@@ -1,7 +1,7 @@
 
 # TOBB ETÜ ELE 495 - Lightning95
 
-<center><img src="https://cdn.discordapp.com/attachments/1186721999326822433/1263371407862267966/github_logo.png?ex=6699fdcf&is=6698ac4f&hm=59bb0088ad7243b93867bf8fef9736b95205daf0b1d3d1edd56605c108f0351b&" /></center>
+<center><img src="https://i.hizliresim.com/pj5m2ox.png" /></center>
 
 # Table of Contents
 - [Introduction](#introduction)
